@@ -18,5 +18,9 @@
 
   "resolutions": {
     "glob-parent": "5.1.2"
+  },
+
+  "scripts": {
+    "start": "node your-script.js"
   }
 }
