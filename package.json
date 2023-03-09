@@ -15,11 +15,9 @@
   "engines": {
     "node": "12.13.0"
   },
-
   "resolutions": {
     "glob-parent": "5.1.2"
   },
-
   "scripts": {
     "start": "node your-script.js"
   }
