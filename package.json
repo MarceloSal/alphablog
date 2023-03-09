@@ -17,7 +17,7 @@
   },
 
   "scripts": {
-    
+    "start": "node your-script.js",
     "heroku-prebuild": "npm install -f",
     "heroku-postbuild": "npm run prod"
   }
