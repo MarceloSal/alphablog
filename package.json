@@ -13,7 +13,5 @@
     "glob-parent": ">=5.1.2"
   },
   "version": "0.1.0",
-  "scripts": {
-    "start": "node your-script.js"
-  }
+  
 }
