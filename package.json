@@ -7,11 +7,18 @@
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "^5.4.4",
-    "node": "12.13.0",
+   
     "serve": "^14.2.0",
     "turbolinks": "^5.2.0",
     "glob-parent": ">=5.1.2"
   },
-  "version": "0.1.0"
+  "version": "0.1.0",
+
+  "engines": {
+    "node": "12.x",
+    "npm": "8.x",
+    "yarn": "1.x"
+  }
+  
   
 }
